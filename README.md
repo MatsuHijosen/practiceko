@@ -1,1 +1,3 @@
 # practiceko
+
+my first repo!!!!!
